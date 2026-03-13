@@ -65,7 +65,8 @@ Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones b
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364&icon_color=2c5364" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&theme=github-dark&hide_border=true&bg_color=0f2027&color=2c5364&line=2c5364&point=ffffff" />
 </p>
@@ -76,7 +77,6 @@ Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones b
 <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
 
 </p>
-
 
 
 <p align="center">
