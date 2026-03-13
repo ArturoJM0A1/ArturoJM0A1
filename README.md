@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Arturo%20Juárez%20Monroy&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+<h1>Arturo Juárez Monroy</h1>
 </p>
 
 <h3 align="center">🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
@@ -66,7 +66,13 @@ Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364&icon_color=2c5364" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoJM0A1&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364" alt="Lenguajes más usados" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&theme=github-dark&hide_border=true&bg_color=0f2027&color=2c5364&line=2c5364&point=ffffff" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArturoJM0A1&theme=github-dark&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" />
+</p>
+
 </p>
 
 
