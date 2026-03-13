@@ -1,10 +1,28 @@
-# Arturo Juárez Monroy
+<h1 align="center">Arturo Juárez Monroy</h1>
 
-Desarrollador de software enfocado en desarrollo web.
+<p align="center">
+Desarrollador de software enfocado en desarrollo web
+</p>
 
-Tecnologías: JavaScript, Python, PHP, Java, C/C++, SQL, React, Next.js, Vue, Astro, Tailwind, Bootstrap, MySQL.
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Next.js-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge">
+</p>
 
-Proyectos: aplicaciones web, APIs, interfaces interactivas y visualización de datos.
+---
 
+## Proyectos
+- Aplicaciones web
+- APIs
+- Interfaces interactivas
+- Visualización de datos
+
+---
+
+## Contacto
 📫 juarezmonroyarturo574@gmail.com  
-🌐 arturojmdev.vercel.app
+🌐 https://arturojmdev.vercel.app
+
