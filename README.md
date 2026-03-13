@@ -22,14 +22,7 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-
-Ingeniero de software con experiencia en desarrollo web de principio a fin. Me apasiona crear aplicaciones interactivas, paneles administrativos y soluciones basadas en datos. He trabajado con tecnologías modernas como **React, Next.js, Astro, Tailwind CSS** y también con stacks más tradicionales como **PHP y MySQL**. Disfruto especialmente el desarrollo frontend y la visualización de información.
-
-- 🌱 Actualmente explorando **Inteligencia Artificial local** con Ollama y modelos como Llama 3.2.
-- 🎓 Ingeniería en Software por la **Universidad Autónoma del Estado de Hidalgo**.
-- 📄 Mi artículo sobre una **app SIG con React Native** fue indexado en *Ciencia Latina*.
-
----
+Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones basadas en datos. He trabajado con tecnologías modernas como **React, Next.js, Astro, Tailwind CSS** y también con stacks más tradicionales como **PHP y MySQL**. Disfruto especialmente el desarrollo frontend y la visualización de información.
 
 ## 🛠️ Habilidades técnicas
 
@@ -69,38 +62,14 @@ Ingeniero de software con experiencia en desarrollo web de principio a fin. Me a
 
 ---
 
-## 📌 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| 🤖 **Chat con IA Local** (2026) | Aplicación web para chatear con modelos de IA (Llama 3.2) ejecutados localmente mediante Ollama. | Next.js, React, Ollama, Tailwind CSS |
-| 🥤 **Venta de Refrescos** (2026) | Plataforma de e-commerce con catálogo público, panel administrativo y actualización de precios vía API. | Next.js, React, Prisma, MySQL, REST API |
-| 🗺️ **SIG Mapas de Hidalgo** (2025) | App móvil para visualizar datos demográficos del INEGI. Artículo indexado en *Ciencia Latina*. | React Native, JSON, GeoJSON, Python, Excel |
-| 🏛️ **IEEE Student Web Hub** (2024) | Portal colaborativo para la rama estudiantil del IEEE Tlahuilipan. | Astro, React, Tailwind CSS, JavaScript |
-| 🌮 **Portal Turístico de Hidalgo** (2024) | Sitio con noticias, eventos, mapas interactivos y filtros de navegación. | PHP, MySQL, Bootstrap, JavaScript |
-| 🍲 **Recetario Web Interactivo** (2024) | App para explorar y guardar recetas con enfoque en UX. | PHP, MySQL, Bootstrap, JavaScript |
-| 🍹 **Sitio Web "El Mezcalito"** (2023) | Web para negocio local con menú, información y sistema de reservas. | PHP, MySQL, Bootstrap, JavaScript |
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJMOA1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364&icon_color=2c5364" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoJMOA1&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364&icon_color=2c5364" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoJM0A1&layout=compact&theme=github_dark&hide_border=true&bg_color=0f2027&title_color=2c5364" alt="Lenguajes más usados" />
 </p>
 
----
 
-## 💡 Habilidades blandas
-
-- Creatividad 🎨  
-- Adaptabilidad 🔄  
-- Enfoque en el detalle 🔍  
-- Compromiso con la calidad ✅  
-- Resiliencia 💪  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
