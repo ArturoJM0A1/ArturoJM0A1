@@ -73,6 +73,8 @@ Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones b
   <img src="https://streak-stats.demolab.com?user=ArturoJM0A1&theme=github-dark&hide_border=true&background=0f2027&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
+
 </p>
 
 
