@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Arturo Juárez Monroy</h1>
+<h1 align="center">Arturo Juárez Monroy</h1>
 </p>
 
 <h3 align="center">🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
