@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ArturoJMOA1" target="_blank">
+  <a href="https://github.com/ArturoJM0A1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:juarezmonroyarturo574@gmail.com">
