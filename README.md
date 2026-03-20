@@ -24,16 +24,6 @@ Me apasiona crear aplicaciones interactivas, paneles administrativos y solucione
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&theme=github-dark&hide_border=true&bg_color=0f2027&color=2c5364&line=2c5364&point=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+  <img src="https://c.tenor.com/JIX9t2j0ZzAAAAAd/cute-cat.gif" alt="Gato cute" width="250"/>
 </p>
