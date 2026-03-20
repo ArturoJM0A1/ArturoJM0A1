@@ -8,7 +8,7 @@
 
 <p align="center">
 
-| <img src="https://picsum.photos/80" alt="Random Tech" width="80" height="80" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
+| <img src="https://arturojmdev.vercel.app/assets/iampixelimage-CA0Tcmht.png" alt="Img Pixel" width="200" height="80" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
 |---|---|
 
 </p>
