@@ -45,6 +45,7 @@ Me apasiona crear aplicaciones interactivas, paneles administrativos y solucione
 
 ---
 
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZzAAAAAd/giphy.gif" alt="Gato cute" width="250"/>
+  <img src="https://arturojmdev.vercel.app/assets/avatar5-COb58nNy.png" alt="Avatar Arturo" width="250"/>
 </p>
