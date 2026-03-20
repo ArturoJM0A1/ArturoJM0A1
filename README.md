@@ -47,5 +47,5 @@ Me apasiona crear aplicaciones interactivas, paneles administrativos y solucione
 
 
 <p align="center">
-  <img src="https://arturojmdev.vercel.app/assets/avatar5-COb58nNy.png" alt="Avatar Arturo" width="250"/>
+  <img src="https://arturojmdev.vercel.app/assets/avatar2-BZwyDnIV.png" alt="Avatar Arturo" width="200"/>
 </p>
