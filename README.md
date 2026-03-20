@@ -1,79 +1,38 @@
 <p align="center">
-<h1 align="center">Arturo Juárez Monroy</h1>
+  <h1>Arturo Juárez Monroy</h1>
+  <h3>🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
 </p>
 
-<h3 align="center">🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
-
 <p align="center">
-  <a href="https://arturojmdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
-  </a>
-  <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ArturoJM0A1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0f2027?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:juarezmonroyarturo574@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
+  <a href="https://arturojmdev.vercel.app" target="_blank">Portafolio</a> • 
+  <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/ArturoJM0A1" target="_blank">GitHub</a> • 
+  <a href="mailto:juarezmonroyarturo574@gmail.com">Correo</a>
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
-Me gusta crear aplicaciones interactivas, paneles administrativos y soluciones basadas en datos. He trabajado con tecnologías modernas como **React, Next.js, Astro, Tailwind CSS** y también con stacks más tradicionales como **PHP y MySQL**. Disfruto especialmente el desarrollo frontend y la visualización de información.
+Me apasiona crear aplicaciones interactivas, paneles administrativos y soluciones basadas en datos. Trabajo con tecnologías modernas como **React, Next.js, Astro, Tailwind CSS**, así como stacks tradicionales como **PHP y MySQL**. Disfruto especialmente el desarrollo frontend y la visualización de información.
 
-## 🛠️ Habilidades técnicas
+---
 
-### Lenguajes y Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend y Bases de Datos
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### Herramientas y Otros
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds_Max-00A8E1?style=flat-square&logo=autodesk&logoColor=white)
-![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white)
+## 🛠️ Habilidades
+**Frontend:** React, Next.js, Vue, Astro, Tailwind CSS  
+**Backend:** Node.js, PHP, MySQL, Firebase, Prisma  
+**Otros:** Git, Power BI, Excel, WordPress, AutoCAD, 3ds Max, A-Frame  
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&theme=github-dark&hide_border=true&bg_color=0f2027&color=2c5364&line=2c5364&point=ffffff" />
 </p>
-
-
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
