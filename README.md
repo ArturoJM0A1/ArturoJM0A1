@@ -1,5 +1,9 @@
 <p align="center">
   <h1>Arturo Juárez Monroy</h1>
+  
+  <!-- Imagen random redondeada -->
+  <img src="https://picsum.photos/200" alt="Imagen Random" width="150" height="150" style="border-radius:50%; margin-top:10px;"/>
+
   <h3>🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
 </p>
 
