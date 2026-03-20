@@ -8,7 +8,7 @@
 
 <p align="center">
 
-| <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.png" alt="Img Pixel" width="200" height="80" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
+| <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.png" alt="Img Pixel" width="400" height="110" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
 |---|---|
 
 </p>
