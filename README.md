@@ -2,18 +2,16 @@
   <h1>Arturo Juárez Monroy</h1>
   
   <!-- Imagen random redondeada -->
-  <img src="https://picsum.photos/200" alt="Imagen Random" width="150" height="150" style="border-radius:50%; margin-top:10px;"/>
 
   <h3>🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
 </p>
 
 <p align="center">
-  <a href="https://arturojmdev.vercel.app" target="_blank">Portafolio</a> • 
-  <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/ArturoJM0A1" target="_blank">GitHub</a> • 
-  <a href="mailto:juarezmonroyarturo574@gmail.com">Correo</a>
-</p>
 
+| <img src="https://picsum.photos/80" alt="Random Tech" width="80" height="80" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
+|---|---|
+
+</p>
 ---
 
 ## 🧑‍💻 Sobre mí
