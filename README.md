@@ -1,53 +1,64 @@
+<!-- HEADER CON ANIMACIÓN -->
 <p align="center">
-  <h1>Arturo Juárez Monroy</h1>
-  
-  <!-- Imagen random redondeada -->
-
-  <h3>🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Arturo+Ju%C3%A1rez+Monroy;Ingeniero+de+Software;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-
-| <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.jpg" alt="Img Pixel" width="400" height="210" style="border-radius:50%"/> | [Portafolio](https://arturojmdev.vercel.app) • [LinkedIn](https://linkedin.com/in/arturo-juárez-monroy-259a28171) • [GitHub](https://github.com/ArturoJM0A1) • [Correo](mailto:juarezmonroyarturo574@gmail.com) |
-|---|---|
-
+  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.jpg" width="180" style="border-radius:50%" />
 </p>
+
+<h3 align="center">🚀 Ingeniero de Software | Desarrollador Web Full Stack</h3>
+
+<p align="center">
+  <a href="https://arturojmdev.vercel.app">🌐 Portafolio</a> •
+  <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171">💼 LinkedIn</a> •
+  <a href="https://github.com/ArturoJM0A1">💻 GitHub</a> •
+  <a href="mailto:juarezmonroyarturo574@gmail.com">📩 Correo</a>
+</p>
+
 ---
 
 ## 🧑‍💻 Sobre mí
-Me apasiona crear aplicaciones interactivas, paneles administrativos y soluciones basadas en datos. Trabajo con tecnologías modernas como **React, Next.js, Astro, Tailwind CSS**, así como stacks tradicionales como **PHP y MySQL**. Disfruto especialmente el desarrollo frontend y la visualización de información.
+✨ Me apasiona crear aplicaciones interactivas, dashboards y soluciones basadas en datos.  
+💡 Disfruto especialmente el frontend, la visualización y la experiencia de usuario.  
 
 ---
 
-## 🛠️ Habilidades
+## ⚡ Tech Stack
 
-**Frontend & Frameworks:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind" />
+</p>
 
-**Backend & Bases de Datos:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
+### ⚙️ Backend & DB
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,mongodb,firebase" />
+</p>
 
-**Otros:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) 
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white) 
-![3ds Max](https://img.shields.io/badge/3ds_Max-00A8E1?style=flat-square&logo=autodesk&logoColor=white) 
-![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white)  
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,wordpress" />
+</p>
 
 ---
 
-
+## 📊 GitHub Stats (dinámico)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/bladerunner.jpg" alt="Avatar Arturo" width="266"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArturoJM0A1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎧 Vibe
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/bladerunner.jpg" width="300"/>
+</p>
+
+---
+
+## 🧠 Frase
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
