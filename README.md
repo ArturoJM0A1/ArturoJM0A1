@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://arturojmdev.vercel.app">🌐 PORTFOLIO</a> •
-  <a href="https://linkedin.com/in/arturo-juárez-monroy-259a28171">💼 LINKEDIN</a> •
+  <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LINKEDIN</a> •
   <a href="https://github.com/ArturoJM0A1">💻 GITHUB</a> •
   <a href="mailto:juarezmonroyarturo574@gmail.com">📩 CONTACT</a>
 </p>
@@ -29,7 +29,7 @@
 + NAME: Arturo Juárez Monroy
 + ROLE: Full Stack Developer
 + LOCATION: México
-+ STATUS: ONLINE
++ STATUS: Contacting...
 + SPECIALTY: Frontend • UI/UX • Data Visualization
 ```
 
@@ -66,10 +66,10 @@
 
 ---
 
-## 🌃 VISUAL_FEED.png
+## 🌃 VISUAL_FEED.JSX
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/bladerunner.jpg" width="340" style="border-radius:10px; border:2px solid #00F7FF;" />
+  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/bladerunner.jpg" width="340" style="border-radius:13px; border:2px solid #00F7FF;" />
 </p>
 
 ---
