@@ -18,7 +18,7 @@
   <a href="https://arturojmdev.vercel.app">🌐 PORTFOLIO</a> •
   <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LINKEDIN</a> •
   <a href="https://github.com/ArturoJM0A1">💻 GITHUB</a> •
-  <a href="https://juarezmonroyarturo574@gmail.com">📩 CONTACT</a>
+<a href="mailto:juarezmonroyarturo574@gmail.com?subject=Contacto&body=Hola Arturo, quiero hablar contigo">📩 CONTACT</a>
 </p>
 
 ---
