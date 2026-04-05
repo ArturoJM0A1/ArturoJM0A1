@@ -57,10 +57,9 @@
 </p>
 
 ---
-
 <p align="center">
   <a href="https://arturojmdev.vercel.app">
-    <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/avatar2.png" />
+    <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/avatar2.png" width="100" />
   </a>
 </p>
 
