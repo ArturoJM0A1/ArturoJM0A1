@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://arturojmdev.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArturoJM0A1&repo=arturojmdev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF" />
+    <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/avatar2.png" />
   </a>
 </p>
 
