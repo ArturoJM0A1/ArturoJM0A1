@@ -70,9 +70,12 @@
 ---
 
 ## 🌃 VISUAL_FEED.JSX
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/blade%20runner%20joi.gif" width="340" style="border-radius:13px; border:2px solid #00F7FF;" />
+  <div style="display:inline-block; background-color:black; padding:10px; border-radius:13px;">
+    <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/blade%20runner%20joi.gif"
+         width="340"
+         style="border-radius:13px; border:2px solid #00F7FF;" />
+  </div>
 </p>
 
 ---
