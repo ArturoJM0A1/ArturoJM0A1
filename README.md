@@ -59,7 +59,7 @@
 ---
 <p align="center">
   <a href="https://arturojmdev.vercel.app">
-    <img src="[https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/avatar2.png](https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/vprevia.png)" width="100" />
+  <img src="[https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind,nodejs,php,mysql,mongodb,firebase,git](https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/vprevia.png)" />
   </a>
 </p>
 
