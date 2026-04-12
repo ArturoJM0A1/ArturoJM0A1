@@ -59,7 +59,7 @@
 ---
 <p align="center">
   <a href="https://arturojmdev.vercel.app">
-  <img src="https://arturojmdev.vercel.app/vprevia.png" />
+  <img src="https://arturojmdev.vercel.app/vprevia.png" width="174"/>
   </a>
 </p>
 
