@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.jpg" width="170" style="border-radius:50%; border:3px solid #00F7FF;" />
+  <img src="https://raw.githubusercontent.com/ArturoJM0A1/arturojmdev/refs/heads/main/public/iampixelimage.jpg" width="223" style="border-radius:50%; border:3px solid #00F7FF;" />
 </p>
 
 <h3 align="center">⚡ SOFTWARE ENGINEER ⚡</h3>
@@ -59,11 +59,11 @@
 ---
 <p align="center">
   <a href="https://arturojmdev.vercel.app">
-  <img src="https://arturojmdev.vercel.app/vprevia.png" width="576"/>
+  <img src="https://arturojmdev.vercel.app/vprevia.png" width="556"/>
   </a>
 </p>
 
-<p align="center">
+<p align="center" href="https://arturojmdev.vercel.app">
   🌐 Mi sitio web personal y portafolio donde muestro mis proyectos, habilidades y experiencia.
 </p>
 
