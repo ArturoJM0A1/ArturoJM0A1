@@ -63,9 +63,10 @@
   </a>
 </p>
 
-<a align="center" href="https://arturojmdev.vercel.app">
+<p align="center" href="https://arturojmdev.vercel.app">
   🌐 Mi sitio web personal y portafolio donde muestro mis proyectos, habilidades y experiencia.
-</a>
+  <a href="https://arturojmdev.vercel.app"></a>
+</p>
 
 ---
 
