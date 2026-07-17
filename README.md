@@ -29,9 +29,7 @@
 + NAME: Arturo Juárez Monroy
 + ROLE: Full Stack Software Engineer
 + LOCATION: Hidalgo, México 🇲🇽
-+ STATUS: Open to Work
 + SPECIALTY: Java • Spring Boot • React • Angular • REST APIs
-+ EXPERIENCE: Full Stack Development
 ```
 
 ---
@@ -97,65 +95,6 @@ goal:
 
 </p>
 
----
-
-# 💼 EXPERIENCE.log
-
-## 🏦 INBURSA Grupo Financiero
-
-```yaml
-Role:
-  Analista Desarrollador
-
-Stack:
-  Java
-  Spring Boot
-  Hibernate
-  Oracle
-  PL/SQL
-  ExtJS
-  Sonar
-  Scrum
-
-Highlights:
-  ✔ Backend Development
-  ✔ Business Logic
-  ✔ REST Services
-  ✔ Layered Architecture
-```
-
----
-
-## 💻 Full Stack Developer
-
-```yaml
-Stack:
-  React
-  Angular
-  Node.js
-  PostgreSQL
-  MySQL
-  REST APIs
-
-Highlights:
-  ✔ Responsive Interfaces
-  ✔ REST Integration
-  ✔ Data Visualization
-```
-
----
-
-## ⚡ FEATURED_PROJECTS.sys
-
-| 🚀 Project | Technologies |
-|------------|-------------|
-| 🗺️ GIS Application (INEGI) | React Native • GeoJSON • Python • JSON |
-| 🤖 AI Object Detector | Angular 19 • TensorFlow.js • MobileNet • PWA |
-| 🌎 Tourism Platform | PHP • MySQL • Google Maps API |
-| 🍽 Restaurant Reservation System | PHP • MySQL |
-| 🌐 Personal Portfolio | React • Next.js |
-
----
 
 # 📊 GITHUB_ANALYTICS
 
@@ -177,25 +116,6 @@ Highlights:
 
 ---
 
-# 🎓 CERTIFICATIONS.pkg
-
-```text
-✔ Frontend Developer (React)
-
-✔ Fullstack Application Development
-
-✔ Enterprise Full Stack with Spring Boot 4 & Angular 21
-
-✔ Spring Boot 4 & Java
-
-✔ Python Essentials
-
-✔ Scrum Fundamentals
-
-✔ Angular + TensorFlow.js
-```
-
----
 
 # 🌐 PORTFOLIO
 
@@ -215,25 +135,6 @@ Personal website where I showcase my projects, professional experience, certific
 
 </p>
 
----
-
-# 🤝 LET'S CONNECT
-
-<p align="center">
-
-<a href="mailto:juarezmonroyarturo574@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arturojuarezmonroy/">
-<img src="https://img.shields.io/badge/LinkedIn-Follow-00F7FF?style=for-the-badge"/>
-</a>
-
-<a href="https://arturojuarezmonroy.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
