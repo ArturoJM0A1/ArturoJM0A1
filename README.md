@@ -41,17 +41,6 @@
 
 </p>
 
-
-# 📊 GITHUB_ANALYTICS
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoJM0A1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 <p align="center">
@@ -77,7 +66,7 @@
 
 <p align="center">
 
-Personal website where I showcase my projects, professional experience, certifications and technologies.
+Personal website where I showcase my projects, professional experience and technologies.
 
 </p>
 
@@ -90,10 +79,5 @@ Personal website where I showcase my projects, professional experience, certific
 
 </p>
 
-<h3 align="center">
 
-⚡ Code • Learn • Build • Repeat ⚡
-
-</h3>
-````
 
