@@ -31,7 +31,7 @@
 + SPECIALTY: Full Stack Web Development
 + FRONTEND: React • Angular • Lit
 + BACKEND: Java • Spring Boot • PHP
-+ DATABASES: SQL • MySQL
++ DATABASE: SQL • MySQL
 ```
 
 ---
@@ -45,47 +45,8 @@
 </p>
 
 <p align="center">
-  <strong>React • Angular • Lit • Java • Spring Boot • PHP • SQL • MySQL</strong>
+  React • Angular • Lit • Java • Spring Boot • PHP • SQL • MySQL
 </p>
-
----
-
-# 💻 FULL_STACK.exe
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                  FULL STACK DEVELOPMENT                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  FRONTEND                                                   │
-│  ├── React                                                  │
-│  ├── Angular                                                │
-│  └── Lit                                                    │
-│                                                             │
-│  BACKEND                                                    │
-│  ├── Java                                                   │
-│  ├── Spring Boot                                            │
-│  └── PHP                                                    │
-│                                                             │
-│  DATABASE                                                   │
-│  ├── SQL                                                    │
-│  └── MySQL                                                  │
-│                                                             │
-│  DEVELOPMENT                                                │
-│  └── REST APIs                                              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 🚀 ABOUT_ME
-
-I'm a **Full Stack Software Engineer** focused on building modern web applications.
-
-I work across both **frontend and backend development**, creating user interfaces with **React, Angular and Lit**, while developing backend services and REST APIs with **Java, Spring Boot and PHP**.
-
-I also work with **SQL and MySQL** for data persistence and application development.
 
 ---
 
@@ -109,8 +70,6 @@ Personal website where I showcase my projects, professional experience and techn
 
 ---
 
-# 📊 GITHUB ACTIVITY
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
@@ -119,37 +78,8 @@ Personal website where I showcase my projects, professional experience and techn
 
 ---
 
-# 👨‍💻 CURRENT FOCUS
-
-```text
-[ FRONTEND ]
-    React
-    Angular
-    Lit
-        │
-        ▼
-[ REST APIs ]
-        │
-        ▼
-[ BACKEND ]
-    Java
-    Spring Boot
-    PHP
-        │
-        ▼
-[ DATABASE ]
-    SQL
-    MySQL
-```
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ArturoJM0A1&style=for-the-badge&color=00F7FF"/>
 
-</p>
-
-<p align="center">
-  <strong>Building software. Solving problems. Learning continuously.</strong>
 </p>
