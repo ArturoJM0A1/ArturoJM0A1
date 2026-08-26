@@ -22,30 +22,16 @@
 
 ---
 
-# 🧬 USER_PROFILE.exe
-
-```diff
-+ NAME: Arturo Juárez Monroy
-+ ROLE: Full Stack Software Engineer
-+ LOCATION: Hidalgo, México 🇲🇽
-+ SPECIALTY: Full Stack Web Development
-+ FRONTEND: React • Angular • Lit
-+ BACKEND: Java • Spring Boot • PHP
-+ DATABASE: SQL • MySQL
-```
-
----
-
 # ⚙️ TECH_STACK.dll
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=react,angular,java,spring,php,mysql"/>
 
 </p>
 
 <p align="center">
-  React • Angular • Lit • Java • Spring Boot • PHP • SQL • MySQL
+  React • Angular  • Java • Spring Boot • PHP • SQL • MySQL
 </p>
 
 ---
@@ -65,14 +51,6 @@
 <p align="center">
 
 Personal website where I showcase my projects, professional experience and technologies.
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoJM0A1&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true"/>
 
 </p>
 
