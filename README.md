@@ -5,7 +5,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ARTURO+JUÁREZ+MONROY;FULL+STACK+SOFTWARE+ENGINEER;JAVA+•+SPRING+BOOT+•+REACT+•+ANGULAR;PHP+•+JAVASCRIPT+•+REST+APIs;BUILDING+MODERN+WEB+APPLICATIONS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=ARTURO+JUÁREZ+MONROY;FULL+STACK+SOFTWARE+ENGINEER;JAVA+•+SPRING+BOOT+•+REACT+•+ANGULAR;PHP+•+LIT+•+SQL+•+MYSQL;BUILDING+MODERN+WEB+APPLICATIONS" />
 </p>
 
 <p align="center">
@@ -27,63 +27,65 @@
 ```diff
 + NAME: Arturo Juárez Monroy
 + ROLE: Full Stack Software Engineer
-+ FOCUS: Frontend • Backend • Web Applications
-+ FRONTEND: React • Angular • JavaScript • TypeScript
-+ BACKEND: Java • Spring Boot • PHP • Laravel
-+ API: REST APIs
-+ DATABASES: MySQL • PostgreSQL • MongoDB • Oracle
 + LOCATION: Hidalgo, México 🇲🇽
++ SPECIALTY: Full Stack Web Development
++ FRONTEND: React • Angular • Lit
++ BACKEND: Java • Spring Boot • PHP
++ DATABASES: SQL • MySQL
 ```
 
 ---
 
 # ⚙️ TECH_STACK.dll
 
-### 💻 Frontend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,astro"/>
+
+<img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql"/>
+
 </p>
 
-### ☕ Backend
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs"/>
-</p>
-
-### 🗄️ Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,git,github,vscode,vercel"/>
+  <strong>React • Angular • Lit • Java • Spring Boot • PHP • SQL • MySQL</strong>
 </p>
 
 ---
 
-# 🚀 WHAT I BUILD
+# 💻 FULL_STACK.exe
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                  FULL STACK DEVELOPMENT                  │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  Frontend                                                │
-│  ├── React                                               │
-│  ├── Angular                                             │
-│  ├── JavaScript / TypeScript                             │
-│  └── Modern Web Components                               │
-│                                                          │
-│  Backend                                                 │
-│  ├── Java + Spring Boot                                  │
-│  ├── PHP + Laravel                                       │
-│  └── Node.js                                             │
-│                                                          │
-│  Integration                                             │
-│  ├── REST APIs                                           │
-│  ├── Database Integration                                │
-│  └── CI/CD                                               │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                  FULL STACK DEVELOPMENT                     │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  FRONTEND                                                   │
+│  ├── React                                                  │
+│  ├── Angular                                                │
+│  └── Lit                                                    │
+│                                                             │
+│  BACKEND                                                    │
+│  ├── Java                                                   │
+│  ├── Spring Boot                                            │
+│  └── PHP                                                    │
+│                                                             │
+│  DATABASE                                                   │
+│  ├── SQL                                                    │
+│  └── MySQL                                                  │
+│                                                             │
+│  DEVELOPMENT                                                │
+│  └── REST APIs                                              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+# 🚀 ABOUT_ME
+
+I'm a **Full Stack Software Engineer** focused on building modern web applications.
+
+I work across both **frontend and backend development**, creating user interfaces with **React, Angular and Lit**, while developing backend services and REST APIs with **Java, Spring Boot and PHP**.
+
+I also work with **SQL and MySQL** for data persistence and application development.
 
 ---
 
@@ -117,10 +119,37 @@ Personal website where I showcase my projects, professional experience and techn
 
 ---
 
+# 👨‍💻 CURRENT FOCUS
+
+```text
+[ FRONTEND ]
+    React
+    Angular
+    Lit
+        │
+        ▼
+[ REST APIs ]
+        │
+        ▼
+[ BACKEND ]
+    Java
+    Spring Boot
+    PHP
+        │
+        ▼
+[ DATABASE ]
+    SQL
+    MySQL
+```
+
+---
+
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ArturoJM0A1&style=for-the-badge&color=00F7FF"/>
 
 </p>
 
-
+<p align="center">
+  <strong>Building software. Solving problems. Learning continuously.</strong>
+</p>
