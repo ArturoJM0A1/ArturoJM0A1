@@ -10,7 +10,7 @@
   <img src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2.png" width="220"/>
 </p>
 
-<h2 align="center">⚡ Full Stack Software Engineer ⚡</h2>
+<h2 align="center">Full Stack Software Engineer</h2>
 
 <p align="center">
 
