@@ -4,52 +4,81 @@
 
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center">Full Stack Software Engineer</h2>
+<h1 align="center">Arturo Juárez Monroy</h1>
+
+<h3 align="center">Full Stack Software Engineer</h3>
 
 <p align="center">
+  Building web applications, backend services and software solutions.
+</p>
 
-<a href="https://arturojuarezmonroy.vercel.app/">🌐 Portfolio</a> • <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LinkedIn</a> • <a href="https://github.com/ArturoJM0A1">💻 GitHub</a> • <a href="mailto:juarezmonroyarturo574@gmail.com">📧 Email</a>
-
+<p align="center">
+  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Portfolio</a>
+  •
+  <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LinkedIn</a>
+  •
+  <a href="https://github.com/ArturoJM0A1">💻 GitHub</a>
+  •
+  <a href="mailto:juarezmonroyarturo574@gmail.com">📧 Email</a>
 </p>
 
 ---
 
-# ⚙️ TECH_STACK.dll
+## ⚙️ TECH_STACK.dll
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,java,spring,php,mysql"/>
-
+  <img src="https://skillicons.dev/icons?i=react,angular,java,spring,php,mysql" />
 </p>
 
 <p align="center">
-  React • Angular  • Java • Spring Boot • PHP • SQL • MySQL
-</p>
-
----
-
-# 🌐 PORTFOLIO
-
-<p align="center">
-
-<a href="https://arturojuarezmonroy.vercel.app/">
-
-<img src="https://arturojuarezmonroy.vercel.app/vprevia.png" width="650"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-Personal website where I showcase my projects, professional experience and technologies.
-
+  <strong>Frontend</strong> · React · Angular
+  <br>
+  <strong>Backend</strong> · Java · Spring Boot · PHP
+  <br>
+  <strong>Database</strong> · SQL · MySQL
 </p>
 
 ---
 
+## 🚀 WHAT I BUILD
+
+* 🌐 Full Stack Web Applications
+* ⚛️ Modern Frontend Interfaces
+* ☕ Backend APIs and Services
+* 🗄️ Database-driven Applications
+* 🔗 REST APIs and System Integration
+* 🧩 Software solutions focused on maintainability and scalability
+
+---
+
+## 🌐 PORTFOLIO
+
 <p align="center">
+  <a href="https://arturojuarezmonroy.vercel.app/">
+    <img
+      src="https://arturojuarezmonroy.vercel.app/vprevia.png"
+      width="350"
+      alt="Arturo Juárez Monroy Portfolio"
+    />
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ArturoJM0A1&style=for-the-badge&color=00F7FF"/>
+<p align="center">
+  <strong>My personal portfolio</strong>
+  <br>
+  Projects · Experience · Technologies · Contact
+</p>
 
+<p align="center">
+  <a href="https://arturojuarezmonroy.vercel.app/">
+    <strong>→ Visit Portfolio</strong>
+  </a>
+</p>
+
+---
+
+## 📊 GITHUB
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturoJM0A1&style=for-the-badge&color=00F7FF" />
 </p>
