@@ -75,10 +75,3 @@
   </a>
 </p>
 
----
-
-## 📊 GITHUB
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArturoJM0A1&style=for-the-badge&color=00F7FF" />
-</p>
