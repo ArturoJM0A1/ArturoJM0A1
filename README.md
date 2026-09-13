@@ -71,7 +71,7 @@
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
-    <strong>→ Visit Portfolio</strong>
+    <strong>→ Visit</strong>
   </a>
 </p>
 
