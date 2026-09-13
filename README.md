@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Portfolio</a>
+  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Official Website</a>
   •
   <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LinkedIn</a>
   •
@@ -58,13 +58,13 @@
     <img
       src="https://arturojuarezmonroy.vercel.app/vprevia.png"
       width="350"
-      alt="Arturo Juárez Monroy Portfolio"
+      alt="Arturo Juárez Monroy - Official Website"
     />
   </a>
 </p>
 
 <p align="center">
-  <strong>My personal portfolio</strong>
+  <strong>My personal Website</strong>
   <br>
   Projects · Experience · Technologies · Contact
 </p>
