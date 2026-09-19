@@ -40,7 +40,7 @@
 
 ---
 
-## :rocket: LO QUE DESARROLLO
+## LO QUE DESARROLLO
 
 * :globe_with_meridians: Aplicaciones web Full Stack
 * :art: Interfaces modernas para aplicaciones web
@@ -52,7 +52,7 @@
 
 ---
 
-## :globe_with_meridians: PORTAFOLIO
+## PORTAFOLIO
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
