@@ -24,7 +24,11 @@
 
 ---
 
-## :gear: TECH_STACK.dll
+## ⚙️ TECH_STACK.dll
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql" />
+</p>
 
 <p align="center">
   <strong>Frontend</strong> · React · Angular · Lit
@@ -40,15 +44,15 @@
 
 * :globe_with_meridians: Aplicaciones web Full Stack
 * :art: Interfaces modernas para aplicaciones web
-* :bricks: Componentes web con Lit
+* :puzzle: Componentes web con Lit
 * :coffee: APIs y servicios backend
-* :file_folder: Aplicaciones basadas en bases de datos
+* :floppy_disk: Aplicaciones basadas en bases de datos
 * :link: APIs REST e integración de sistemas
 * :building_construction: Soluciones de software enfocadas en mantenibilidad y escalabilidad
 
 ---
 
-## :computer: PORTAFOLIO
+## :globe_with_meridians: PORTAFOLIO
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
@@ -68,6 +72,6 @@
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
-    <strong>:arrow_right: Visitar sitio</strong>
+    <strong>→ Visitar sitio</strong>
   </a>
 </p>
