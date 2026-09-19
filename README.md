@@ -13,22 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Sitio web</a>
+  <a href="https://arturojuarezmonroy.vercel.app/">:globe_with_meridians: Sitio web</a>
   •
-  <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/arturojuarezmonroy/">:briefcase: LinkedIn</a>
   •
-  <a href="https://github.com/ArturoJM0A1">💻 GitHub</a>
+  <a href="https://github.com/ArturoJM0A1">:computer: GitHub</a>
   •
-  <a href="mailto:juarezmonroyarturo574@gmail.com">📧 Correo</a>
+  <a href="mailto:juarezmonroyarturo574@gmail.com">:email: Correo</a>
 </p>
 
 ---
 
-## ⚙️ TECH_STACK.dll
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql" />
-</p>
+## :gear: TECH_STACK.dll
 
 <p align="center">
   <strong>Frontend</strong> · React · Angular · Lit
@@ -40,19 +36,19 @@
 
 ---
 
-## 🚀 LO QUE DESARROLLO
+## :rocket: LO QUE DESARROLLO
 
-* 🌐 Aplicaciones web Full Stack
-* ⚛️ Interfaces modernas para aplicaciones web
-* 🧩 Componentes web con Lit
-* ☕ APIs y servicios backend
-* 🗄️ Aplicaciones basadas en bases de datos
-* 🔗 APIs REST e integración de sistemas
-* 🧱 Soluciones de software enfocadas en mantenibilidad y escalabilidad
+* :globe_with_meridians: Aplicaciones web Full Stack
+* :art: Interfaces modernas para aplicaciones web
+* :bricks: Componentes web con Lit
+* :coffee: APIs y servicios backend
+* :file_folder: Aplicaciones basadas en bases de datos
+* :link: APIs REST e integración de sistemas
+* :building_construction: Soluciones de software enfocadas en mantenibilidad y escalabilidad
 
 ---
 
-## 🌐 PORTAFOLIO
+## :computer: PORTAFOLIO
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
@@ -72,7 +68,6 @@
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
-    <strong>→ Visitar sitio</strong>
+    <strong>:arrow_right: Visitar sitio</strong>
   </a>
 </p>
-
