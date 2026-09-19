@@ -24,7 +24,7 @@
 
 ---
 
-## ⚙️ TECH_STACK.dll
+## TECH_STACK.dll
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql" />
