@@ -6,20 +6,20 @@
 
 <h1 align="center">Arturo Juárez Monroy</h1>
 
-<h3 align="center">Full Stack Software Engineer</h3>
+<h3 align="center">Ingeniero de Software Full Stack</h3>
 
 <p align="center">
-  Building web applications, backend services and software solutions.
+  Desarrollo aplicaciones web, servicios backend y soluciones de software.
 </p>
 
 <p align="center">
-  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Official Website</a>
+  <a href="https://arturojuarezmonroy.vercel.app/">🌐 Sitio web</a>
   •
   <a href="https://www.linkedin.com/in/arturojuarezmonroy/">💼 LinkedIn</a>
   •
   <a href="https://github.com/ArturoJM0A1">💻 GitHub</a>
   •
-  <a href="mailto:juarezmonroyarturo574@gmail.com">📧 Email</a>
+  <a href="mailto:juarezmonroyarturo574@gmail.com">📧 Correo</a>
 </p>
 
 ---
@@ -27,51 +27,52 @@
 ## ⚙️ TECH_STACK.dll
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,java,spring,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql" />
 </p>
 
 <p align="center">
-  <strong>Frontend</strong> · React · Angular
+  <strong>Frontend</strong> · React · Angular · Lit
   <br>
   <strong>Backend</strong> · Java · Spring Boot · PHP
   <br>
-  <strong>Database</strong> · SQL · MySQL
+  <strong>Base de datos</strong> · SQL · MySQL
 </p>
 
 ---
 
-## 🚀 WHAT I BUILD
+## 🚀 LO QUE DESARROLLO
 
-* 🌐 Full Stack Web Applications
-* ⚛️ Modern Frontend Interfaces
-* ☕ Backend APIs and Services
-* 🗄️ Database-driven Applications
-* 🔗 REST APIs and System Integration
-* 🧩 Software solutions focused on maintainability and scalability
+* 🌐 Aplicaciones web Full Stack
+* ⚛️ Interfaces modernas para aplicaciones web
+* 🧩 Componentes web con Lit
+* ☕ APIs y servicios backend
+* 🗄️ Aplicaciones basadas en bases de datos
+* 🔗 APIs REST e integración de sistemas
+* 🧱 Soluciones de software enfocadas en mantenibilidad y escalabilidad
 
 ---
 
-## 🌐 PORTFOLIO
+## 🌐 PORTAFOLIO
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
       src="https://arturojuarezmonroy.vercel.app/vprevia.png"
       width="350"
-      alt="Arturo Juárez Monroy - Official Website"
+      alt="Arturo Juárez Monroy - Sitio web personal"
     />
   </a>
 </p>
 
 <p align="center">
-  <strong>My personal Website</strong>
+  <strong>Mi sitio web personal</strong>
   <br>
-  Projects · Experience · Technologies · Contact
+  Proyectos · Experiencia · Tecnologías · Contacto
 </p>
 
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
-    <strong>→ Visit</strong>
+    <strong>→ Visitar sitio</strong>
   </a>
 </p>
 
