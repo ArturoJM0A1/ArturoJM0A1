@@ -44,11 +44,12 @@
 
 * :globe_with_meridians: Aplicaciones web Full Stack
 * :art: Interfaces modernas para aplicaciones web
-* 🧩: Componentes web 
+* 🧩 Componentes web 
 * :coffee: APIs y servicios backend
 * :floppy_disk: Aplicaciones basadas en bases de datos
 * :link: APIs REST e integración de sistemas
 * :building_construction: Soluciones de software enfocadas en mantenibilidad y escalabilidad
+* ☕ Desarrollo backend con Java, PHP y un poco de C#
 
 ---
 
