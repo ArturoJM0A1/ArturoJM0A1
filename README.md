@@ -44,7 +44,7 @@
 
 * :globe_with_meridians: Aplicaciones web Full Stack
 * :art: Interfaces modernas para aplicaciones web
-* :puzzle: Componentes web con Lit
+* :puzzle: Componentes web 
 * :coffee: APIs y servicios backend
 * :floppy_disk: Aplicaciones basadas en bases de datos
 * :link: APIs REST e integración de sistemas
