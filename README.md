@@ -27,7 +27,7 @@
 ## TECH_STACK.dll
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,angular,lit,java,spring,php,mysql,aws" />
 </p>
 
 <p align="center">
@@ -36,6 +36,8 @@
   <strong>Backend</strong> · Java · Spring Boot · PHP
   <br>
   <strong>Base de datos</strong> · SQL · MySQL
+  <br>
+  <strong>Nube</strong> AWS
 </p>
 
 ---
