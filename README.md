@@ -46,12 +46,31 @@
 
 * :globe_with_meridians: Aplicaciones web Full Stack
 * :art: Interfaces modernas para aplicaciones web
-* 🧩 Componentes web 
+* 🧩 Componentes web
 * :coffee: APIs y servicios backend
 * :floppy_disk: Aplicaciones basadas en bases de datos
 * :link: APIs REST e integración de sistemas
 * :building_construction: Soluciones de software enfocadas en mantenibilidad y escalabilidad
 * 🖥️ Desarrollo backend con Java, PHP y un poco de C#
+
+---
+
+## GITHUB_STATS.exe
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ArturoJM0A1&show_icons=true&include_all_commits=true&theme=tokyonight"
+      alt="Estadísticas de GitHub de Arturo Juárez Monroy"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Actividad y contribuciones en GitHub</strong>
+  <br>
+  Commits · Pull Requests · Issues · Estrellas · Rango
+</p>
 
 ---
 
