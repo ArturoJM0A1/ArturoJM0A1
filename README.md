@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
-      src="https://arturojuarezmonroy.vercel.app/vprevia.png"
+      src="https://arturojuarezmonroy.vercel.app/footerlaptop/Imglaptoplight.png"
       width="350"
       alt="Arturo Juárez Monroy - Sitio web personal"
     />
