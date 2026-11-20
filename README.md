@@ -6,7 +6,7 @@
 
 <h1 align="center">Arturo Juárez Monroy</h1>
 
-<h3 align="center">Ingeniero de Software Full Stack</h3>
+<h3 align="center">Ingeniero de Software</h3>
 
 <p align="center">
   Desarrollo aplicaciones web, servicios backend y soluciones de software.
