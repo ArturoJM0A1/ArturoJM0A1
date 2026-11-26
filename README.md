@@ -67,7 +67,7 @@
   </a>
 </p>
 
-  <img src="[./assets/r2d2.gif](https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif)" width="350" alt="Portafolio Arturo Juárez Monroy" />
+  <img src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif" width="350" alt="Portafolio Arturo Juárez Monroy" />
 
 <p align="center">
   <strong>Mi sitio web personal</strong>
