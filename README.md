@@ -60,14 +60,13 @@
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
-      src="https://arturojuarezmonroy.vercel.app/footerlaptop/Imglaptoplight.png"
+      src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif"
       width="350"
       alt="Arturo Juárez Monroy - Sitio web personal"
     />
   </a>
 </p>
 
-  <img src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif" width="350" alt="Portafolio Arturo Juárez Monroy" />
 
 <p align="center">
   <strong>Mi sitio web personal</strong>
