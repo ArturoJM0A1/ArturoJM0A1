@@ -61,7 +61,7 @@
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
       src="https://arturojuarezmonroy.vercel.app/footerlaptop/Imglaptoplight.png"
-      width="150"
+      width="350"
     />
   </a>
 </p>
