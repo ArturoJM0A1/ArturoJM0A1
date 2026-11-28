@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
-      src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif"
+      src="https://arturojuarezmonroy.vercel.app/footerlaptop/Imglaptoplight.png"
       width="150"
     />
   </a>
@@ -78,3 +78,14 @@
     <strong>→ Visitar sitio</strong>
   </a>
 </p>
+
+
+<p align="center">
+  <a href="https://arturojuarezmonroy.vercel.app/">
+    <img
+      src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif"
+      width="150"
+    />
+  </a>
+</p>
+
