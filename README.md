@@ -61,7 +61,7 @@
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
       src="https://arturojuarezmonroy.vercel.app/footerlaptop/Imglaptoplight.png"
-      width="350"
+      width="450"
     />
   </a>
 </p>
@@ -84,7 +84,7 @@
   <a href="https://arturojuarezmonroy.vercel.app/">
     <img
       src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif"
-      width="150"
+      width="155"
     />
   </a>
 </p>
