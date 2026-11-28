@@ -62,7 +62,6 @@
     <img
       src="https://arturojuarezmonroy.vercel.app/r2d2/r2d2trazonochedisparo.gif"
       width="150"
-      alt="Arturo Juárez Monroy - Sitio web personal"
     />
   </a>
 </p>
